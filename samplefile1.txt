@@ -4,3 +4,4 @@ Modified file
 I went through Mrs Shears’ gate, closing it behind me. I walked onto her lawn and knelt beside the dog. I put my hand on the muzzle of the dog. It was still warm.
 This is sample file 1 develop
 This is the changes in simplefile1
+This is the new changes to the file1
